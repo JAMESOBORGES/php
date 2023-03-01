@@ -1,5 +1,5 @@
 <?php
 
-  echo "olá gostoso";
+  echo "olá cuzinho";
 
 ?>
